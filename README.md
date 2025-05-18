@@ -21,52 +21,22 @@ The main objectives of this web application is to:
 
 |Features      | Description                 |
 |--------------| ----------------------------|
-|1. Login / Signup | * Secure user authentication and registration.|
-|2. Dashboard| * Quick view of total invoices, received payments, and outstanding balances. <br> * Recent activity feed or invoice status indicators (paid, unpaid, overdue). |
-|3. Clients | * Add, edit, and delete client records. <br> * View client-specific invoice/payment history. <br> * Store contact information and business details. |
-|4. Invoices | * Create new invoices with invoice number, date, due date, and itemized services. <br> * Edit or delete existing invoices. <br> * Status indicators: Draft, Sent, Paid, Overdue. <br> * Option to download or email PDF invoices. |
-|5. Payments  | * Record full or partial payments against specific invoices. <br> * View list of all payments made and pending. <br> * Auto-adjust invoice status based on payment received. |
-|6. Profile / Settings | * Edit user profile information. <br> * Basic account settings. <br> * Logout functionality. |
+|1. Login / Signup |  Secure user authentication and registration.|
+|2. Dashboard|  Quick view of total invoices, received payments, and outstanding balances. <br>  Recent activity feed or invoice status indicators (paid, unpaid, overdue). |
+|3. Clients |  Add, edit, and delete client records. <br>  View client-specific invoice/payment history. <br>  Store contact information and business details. |
+|4. Invoices |  Create new invoices with invoice number, date, due date, and itemized services. <br>  Edit or delete existing invoices. <br>  Status indicators: Draft, Sent, Paid, Overdue. <br>  Option to download or email PDF invoices. |
+|5. Payments  |  Record full or partial payments against specific invoices. <br>  View list of all payments made and pending. <br>  Auto-adjust invoice status based on payment received. |
+|6. Profile / Settings |  Edit user profile information. <br>  Basic account settings. <br>  Logout functionality. |
 
 
-
-
-
-
-
-
-1. Login / Signup  
-* Secure user authentication and registration.
-
-2. Dashboard  
-* Quick view of total invoices, received payments, and outstanding balances.  
-* Recent activity feed or invoice status indicators (paid, unpaid, overdue).
-
-3. Clients  
-* Add, edit, and delete client records.  
-* View client-specific invoice/payment history.  
-* Store contact information and business details.  
-
-4. Invoices  
-* Create new invoices with invoice number, date, due date, and itemized services.  
-* Edit or delete existing invoices.
-* Status indicators: Draft, Sent, Paid, Overdue.  
-* Option to download or email PDF invoices.  
-
-5. Payments  
-* Record full or partial payments against specific invoices.  
-* View list of all payments made and pending.  
-* Auto-adjust invoice status based on payment received.  
-
-6. Profile / Settings  
-* Edit user profile information.  
-* Basic account settings.  
-* Logout functionality.  
 
 <ins>**Additional Functionality**</ins>
-1. Custom Branding  
-* Let users upload their company logo and customize invoice colors and footer messages.  
-2. Multiple Currency Support  
-* Useful for freelancers or businesses working with international clients.  
-3. Recurring Invoices  
-* Send invoices automatically on a regular schedule.  
+
+|Features      | Description                 |
+|--------------| ----------------------------|
+|1. Custom Branding   |  Let users upload their company logo and customize invoice colors and footer messages.  |
+|2. Multiple Currency Support  | Useful for freelancers or businesses working with international clients.  |
+|3. Recurring Invoices   | Send invoices automatically on a regular schedule.  |
+
+
+
