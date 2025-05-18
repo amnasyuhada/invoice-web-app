@@ -8,48 +8,48 @@ The system will provide users with fundamental invoicing features through a simp
 This project borrows ideas from open-source options like Invoice Ninja but limit the scope to keep things simple, easy to use, and efficient. The proposed system will serve as a working solution for individuals and small organizations that want to improve the accuracy of billing and save their time.
 
 ## Objectives
-The main objectives of this web application is to:
-* Provide a user friendly platform to manage invoices and payments made by the client. 
-* Increase efficiency by automating billing tasks and reduce the risks of error. 
-* Provide small organizations with tools to effectively create, track, and manage invoices. 
-* Centralize the customer and payment record in one place for better tracking.
-* Promote sustainability by implementing digital invoicing. 
+The main objectives of this web application is to:  
+* Provide a user friendly platform to manage invoices and payments made by the client.  
+* Increase efficiency by automating billing tasks and reduce the risks of error.  
+* Provide small organizations with tools to effectively create, track, and manage invoices.  
+* Centralize the customer and payment record in one place for better tracking.  
+* Promote sustainability by implementing digital invoicing.  
 
 ## Features and functionalities
 
 <ins>**Core Features**</ins>
-1. Login / Signup
-Secure user authentication and registration.
+1. Login / Signup  
+* Secure user authentication and registration.
 
-2. Dashboard
-Quick view of total invoices, received payments, and outstanding balances.
-Recent activity feed or invoice status indicators (paid, unpaid, overdue).
+2. Dashboard  
+* Quick view of total invoices, received payments, and outstanding balances.  
+* Recent activity feed or invoice status indicators (paid, unpaid, overdue).
 
-3. Clients
-Add, edit, and delete client records.
-View client-specific invoice/payment history.
-Store contact information and business details.
+3. Clients  
+* Add, edit, and delete client records.  
+* View client-specific invoice/payment history.  
+* Store contact information and business details.  
 
-4. Invoices
-Create new invoices with invoice number, date, due date, and itemized services.
-Edit or delete existing invoices.
-Status indicators: Draft, Sent, Paid, Overdue.
-Option to download or email PDF invoices.
+4. Invoices  
+* Create new invoices with invoice number, date, due date, and itemized services.  
+* Edit or delete existing invoices.
+* Status indicators: Draft, Sent, Paid, Overdue.  
+* Option to download or email PDF invoices.  
 
-5. Payments
-Record full or partial payments against specific invoices.
-View list of all payments made and pending.
-Auto-adjust invoice status based on payment received.
+5. Payments  
+* Record full or partial payments against specific invoices.  
+* View list of all payments made and pending.  
+* Auto-adjust invoice status based on payment received.  
 
-6. Profile / Settings
-Edit user profile information.
-Basic account settings.
-Logout functionality.
+6. Profile / Settings  
+* Edit user profile information.  
+* Basic account settings.  
+* Logout functionality.  
 
 <ins>**Additional Functionality**</ins>
-1. Custom Branding
-Let users upload their company logo and customize invoice colors and footer messages.
-2. Multiple Currency Support
-Useful for freelancers or businesses working with international clients.
-3. Recurring Invoices
-Send invoices automatically on a regular schedule.
+1. Custom Branding  
+* Let users upload their company logo and customize invoice colors and footer messages.  
+2. Multiple Currency Support  
+* Useful for freelancers or businesses working with international clients.  
+3. Recurring Invoices  
+* Send invoices automatically on a regular schedule.  
