@@ -18,6 +18,23 @@ The main objectives of this web application is to:
 ## Features and functionalities
 
 <ins>**Core Features**</ins>
+
+|Features      | Description                 |
+|--------------| ----------------------------|
+|1. Login / Signup | * Secure user authentication and registration.|
+|2. Dashboard| * Quick view of total invoices, received payments, and outstanding balances. <br> * Recent activity feed or invoice status indicators (paid, unpaid, overdue). |
+|3. Clients | * Add, edit, and delete client records. <br> * View client-specific invoice/payment history. <br> * Store contact information and business details. |
+|4. Invoices | * Create new invoices with invoice number, date, due date, and itemized services. <br> * Edit or delete existing invoices. <br> * Status indicators: Draft, Sent, Paid, Overdue. <br> * Option to download or email PDF invoices. |
+|5. Payments  | * Record full or partial payments against specific invoices. <br> * View list of all payments made and pending. <br> * Auto-adjust invoice status based on payment received. |
+|6. Profile / Settings | * Edit user profile information. <br> * Basic account settings. <br> * Logout functionality. |
+
+
+
+
+
+
+
+
 1. Login / Signup  
 * Secure user authentication and registration.
 
