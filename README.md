@@ -63,7 +63,8 @@ The main objectives of this web application is to:
 |4. Display Mode   | Improve readability for some individuals with visual impairments.  |
 
 ## Entity Relationship Diagram (ERD)
-![webapp drawio](https://github.com/user-attachments/assets/903de377-0eec-4659-a3f7-7863f98a361f)
+![webapp drawio (1)](https://github.com/user-attachments/assets/d28e2994-9950-4dea-a960-485129f85e71)
+
 
 ## Sequence Diagram
 
