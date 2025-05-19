@@ -75,5 +75,7 @@ Summary:
 
 ## Sequence Diagram
 
-![Alt text](Sequence_Diagram.png)
+![Alt text](Sequence_DiagramV2.png)
+
+
 
