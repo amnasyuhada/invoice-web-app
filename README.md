@@ -65,6 +65,13 @@ The main objectives of this web application is to:
 ## Entity Relationship Diagram (ERD)
 ![webapp drawio (2)](https://github.com/user-attachments/assets/609264e3-44c9-47fa-9ff1-745642a020a7)
 
+Summary:
+
+* User: Can have many Clients and Invoices.
+
+* Client: Can receive many Invoices and have many RecurringInvoices.
+
+* Invoice: Can have many InvoiceItems and Payments.
 
 ## Sequence Diagram
 
