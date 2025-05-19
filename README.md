@@ -1,8 +1,19 @@
-WEB APPLICATION DEVELOPMENT PROJECT PROPOSAL
-Section: 2
-Instructed By: Dr. Mohd Khairul Azmi Bin Hassan 
-Group: C
-# invoice-web-app
+# Web Application Development Project Proposal
+
+---
+
+### Section: 2
+
+Instructed By:  
+**Dr. Mohd Khairul Azmi Bin Hassan**
+
+---
+
+### Group: C
+
+---
+
+### Project: **Invoice Web App**
 
 |No |Name               | Matric Number       |
 |---|-------------------| --------------------|
