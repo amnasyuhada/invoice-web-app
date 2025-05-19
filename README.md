@@ -53,7 +53,7 @@ The main objectives of this web application is to:
 
 
 
-## Additional Functionality
+<ins>**Additional Functionality**</ins>
 
 |Features      | Description                 |
 |--------------| ----------------------------|
@@ -62,7 +62,7 @@ The main objectives of this web application is to:
 |3. Recurring Invoices   | Send invoices automatically on a regular schedule.  |
 |4. Display Mode   | Improve readability for some individuals with visual impairments.  |
 
-<ins>**Entity Relationship Diagram (ERD)**</ins>
+## Entity Relationship Diagram (ERD)
 
 ## Sequence Diagram##
 
