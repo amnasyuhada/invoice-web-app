@@ -60,6 +60,7 @@ The main objectives of this web application is to:
 |1. Custom Branding   |  Let users upload their company logo and customize invoice colors and footer messages.  |
 |2. Multiple Currency Support  | Useful for freelancers or businesses working with international clients.  |
 |3. Recurring Invoices   | Send invoices automatically on a regular schedule.  |
+|4. Display Mode   | Improve readability for some individuals with visual impairments.  |
 
 
 
