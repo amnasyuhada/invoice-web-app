@@ -77,5 +77,21 @@ Summary:
 
 ![Alt text](Sequence_DiagramV2.png)
 
+Summary:
+
+* User Authentication (Login/Signup): Authenticates the user’s login or signup request and grants or denies access based on credentials.
+
+* Dashboard: Displays a summary of invoices and payments after retrieving data from the database.
+
+* Client Management: Allows the user to manage client records by adding, editing, or deleting entries in the database.
+
+* Invoice Creation: Enables users to create or update invoices and save the details to the database.
+
+* Payment Recording: Records full or partial payments against invoices and updates their status accordingly.
+
+* Invoice Export (optional): User downloads or emails the invoice as a PDF.
+
+* Additional Features (optional): Provides additional tools such as applying custom branding, handling multiple currencies, and sending recurring invoices.
+
 
 
