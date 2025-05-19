@@ -65,5 +65,6 @@ The main objectives of this web application is to:
 <ins>**Entity Relationship Diagram (ERD)**</ins>
 
 <ins>**Sequence Diagram**</ins>
+
 ![Alt text](Sequence_Diagram.png)
 
