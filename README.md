@@ -53,7 +53,7 @@ The main objectives of this web application is to:
 
 
 
-<ins>**Additional Functionality**</ins>
+## Additional Functionality
 
 |Features      | Description                 |
 |--------------| ----------------------------|
@@ -64,7 +64,7 @@ The main objectives of this web application is to:
 
 <ins>**Entity Relationship Diagram (ERD)**</ins>
 
-<ins>**Sequence Diagram**</ins>
+## Sequence Diagram##
 
 ![Alt text](Sequence_Diagram.png)
 
