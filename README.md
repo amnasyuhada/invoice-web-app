@@ -126,5 +126,5 @@ Summary:
 <ins>**6. User Profile Page**</ins>
 ![image](https://github.com/user-attachments/assets/8bc0dce4-1651-4ffb-9477-33b7c12fc93a)
 
-<ins>**6. Video Link **</ins>
+<ins>**Video Link**</ins>
 https://youtube.com/shorts/b37x3u3bXmc?feature=shared
