@@ -96,27 +96,33 @@ Summary:
 
 # Prototype
 
-<ins>**Sign Up page**</ins>
+<ins>**1.1 Sign Up page**</ins>
 
 ![image](https://github.com/user-attachments/assets/9a1ad101-41d8-4d6b-a2ba-aff13cd02352)
 
-<ins>**Login page**</ins>
+<ins>**1.2 Login page**</ins>
 
 ![image](https://github.com/user-attachments/assets/065ed0bb-c28e-487f-9649-c5c230f6fae5)
 
-<ins>**Dashboard**</ins>  
+<ins>**2. Dashboard**</ins>  
 
 ![Alt text](4.Dashboard.png)  
 
-<ins>**Clients Page**</ins>
+<ins>**3. Clients Page**</ins>
 
 ![Alt text](prototypeClients.png)
 
+<ins>**4.1 Invoices Page**</ins>
 
-<ins>**Payment Page**</ins>
+![8  Invoice](https://github.com/user-attachments/assets/1c11341d-e2fb-4c78-8713-97276eaede64)
+
+<ins>**4.2 Recurring Invoices Page**</ins>
+![9  Recurring Invoices](https://github.com/user-attachments/assets/9b3ef616-8507-4e3f-acbd-2daaad991ff6)
+
+<ins>**5. Payment Page**</ins>
 
 ![Alt text](7.Payment.png)
 
-<ins>**User Profile Page**</ins>
+<ins>**6. User Profile Page**</ins>
 ![image](https://github.com/user-attachments/assets/8bc0dce4-1651-4ffb-9477-33b7c12fc93a)
 
