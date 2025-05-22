@@ -96,4 +96,6 @@ Summary:
 
 # Prototype
 
+<ins>**Payment Page**</ins>
+
 ![Alt text](7.Payment.png)
