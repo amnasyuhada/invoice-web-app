@@ -96,6 +96,14 @@ Summary:
 
 # Prototype
 
+<ins>**Sign Up page**</ins>
+
+![image](https://github.com/user-attachments/assets/08354c51-a1c5-41f2-bf16-3f6f35ff72fa)
+
+<ins>**Login page**</ins>
+
+![image](https://github.com/user-attachments/assets/065ed0bb-c28e-487f-9649-c5c230f6fae5)
+
 <ins>**Dashboard**</ins>  
 
 ![Alt text](4.Dashboard.png)  
@@ -109,4 +117,6 @@ Summary:
 
 ![Alt text](7.Payment.png)
 
+<ins>**User Profile Page**</ins>
+![image](https://github.com/user-attachments/assets/8bc0dce4-1651-4ffb-9477-33b7c12fc93a)
 
