@@ -98,7 +98,7 @@ Summary:
 
 <ins>**Sign Up page**</ins>
 
-![image](https://github.com/user-attachments/assets/08354c51-a1c5-41f2-bf16-3f6f35ff72fa)
+![image](https://github.com/user-attachments/assets/9a1ad101-41d8-4d6b-a2ba-aff13cd02352)
 
 <ins>**Login page**</ins>
 
