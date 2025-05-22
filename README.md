@@ -96,6 +96,10 @@ Summary:
 
 # Prototype
 
+<ins>**Dashboard**</ins>  
+
+![Alt text](4.Dashboard.png)  
+
 <ins>**Clients Page**</ins>
 
 ![Alt text](prototypeClients.png)
