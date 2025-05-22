@@ -127,4 +127,4 @@ Summary:
 ![image](https://github.com/user-attachments/assets/8bc0dce4-1651-4ffb-9477-33b7c12fc93a)
 
 <ins>**6. Video Link **</ins>
-https://www.canva.com/design/DAGoLG_5q3E/cp0L5gDc87DsRHts7tBncw/edit?ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19LCJBIjp7fX0
+https://youtube.com/shorts/b37x3u3bXmc?feature=shared
