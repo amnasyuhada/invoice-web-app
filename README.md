@@ -96,9 +96,13 @@ Summary:
 
 # Prototype
 
+<ins>**Clients Page**</ins>
+
+![Alt text](prototypeClients.png)
+
+
 <ins>**Payment Page**</ins>
 
 ![Alt text](7.Payment.png)
 
-![Alt text](prototypeClients.png)
 
