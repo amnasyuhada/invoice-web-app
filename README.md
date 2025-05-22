@@ -96,4 +96,4 @@ Summary:
 
 # Prototype
 
-
+![Alt text](7.Payment.png)
