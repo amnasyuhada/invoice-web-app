@@ -99,3 +99,6 @@ Summary:
 <ins>**Payment Page**</ins>
 
 ![Alt text](7.Payment.png)
+
+![Alt text](prototypeClients.png)
+
