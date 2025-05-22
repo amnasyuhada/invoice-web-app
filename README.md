@@ -96,5 +96,4 @@ Summary:
 
 # Prototype
 
-![Alt text](prototypeClients.png)
 
