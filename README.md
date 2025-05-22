@@ -94,4 +94,7 @@ Summary:
 * Additional Features (optional): Provides additional tools such as applying custom branding, handling multiple currencies, and sending recurring invoices.
 
 
+# Prototype
+
+![Alt text](prototypeClients.png)
 
