@@ -36,6 +36,7 @@ class MainPanelProvider extends PanelProvider
     public function panel(Panel $panel): Panel
     {
         return $panel
+            ->topNavigation()
             ->id('main')
             ->path('main')
             ->tenant(Team::class, slugAttribute: 'slug')
