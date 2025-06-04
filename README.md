@@ -73,7 +73,44 @@ The main objectives of this web application is to:
 ## 4. ERD Diagram
 ![webapp drawio (2)](https://github.com/user-attachments/assets/62aefa57-2a80-402a-9ce4-4a661f50d579)
 
+
 This ERD represents the data structure of a Simple Invoice System designed for freelancers and small businesses. The system includes six main entities: User, Client, Invoice, InvoiceItem, Payment, and RecurringInvoice. Each user can manage multiple clients and generate invoices for them. Invoices can have multiple items and receive multiple payments. Recurring invoices allow users to automate billing on a schedule. The relationships are primarily one-to-many, ensuring a clear and efficient data model.
+
+
+## 5. Mockup Prototype
+
+1. Sign up
+
+![2  Sign Up](https://github.com/user-attachments/assets/3124cbc2-4d9f-499f-a65a-feda76c920d8)
+
+2. Login
+
+![1  Login](https://github.com/user-attachments/assets/ee5a864f-ac99-42b1-b643-558a0e51a4b2)
+
+3. Profile 
+
+![6 Profile](https://github.com/user-attachments/assets/80bbf3cc-df28-4d43-8ae9-34543ee3586a)
+
+4. Dashboard
+
+![4 Dashboard](https://github.com/user-attachments/assets/b20912d3-a73c-4eae-abbd-3112283bba8a)
+
+5. Client
+
+![5  Clients](https://github.com/user-attachments/assets/82363bdf-bcef-4f54-ab84-132521bab3c9)
+
+6.1. Invoice
+
+![8  Invoice](https://github.com/user-attachments/assets/e6c50b0d-7c9a-4ca7-8313-41ef0cd81826)
+
+6.2. Recurring Invoice
+
+![9  Recurring Invoices](https://github.com/user-attachments/assets/fb4cfea6-c14e-4a20-914b-ca80772f8292)
+
+7. Payment
+
+![7 Payment](https://github.com/user-attachments/assets/b373d073-edae-4018-a220-7195ce4df1b9)
+
 
 ## 6. Link youtube : https://youtube.com/shorts/b37x3u3bXmc?feature=shared
 
