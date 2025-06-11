@@ -37,7 +37,7 @@ class RecentInvoicesTable extends BaseWidget
                 TextColumn::make('status')
                     ->badge()
                     ->color(fn (string $state): string => match ($state) {
-                        'paid' => 'success',
+                        'sent' => 'info',
                         'cancel' => 'warning',
                         'overdue' => 'danger',
                         default => 'gray',
