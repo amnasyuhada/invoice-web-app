@@ -105,7 +105,7 @@ Functions: View, filter, and manage payments with pagination and bulk actions.
 
 4. Dashboard
 
-![4 Dashboard](https://github.com/user-attachments/assets/b20912d3-a73c-4eae-abbd-3112283bba8a)
+![4. Dashboard](https://raw.githubusercontent.com/amnasyuhada/invoice-web-app/main/4.Dashboard.png)
 
 5. Client
 
