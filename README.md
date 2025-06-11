@@ -71,7 +71,7 @@ The main objectives of this web application is to:
 
 
 ## ERD Diagram
-![webapp drawio (2)](https://github.com/user-attachments/assets/62aefa57-2a80-402a-9ce4-4a661f50d579)
+![webapp drawio (2)](https://github.com/user-attachments/assets/cca9d2bf-b5ff-429d-99b0-7fc984f9a06f)
 
 
 This ERD represents the data structure of a Simple Invoice System designed for freelancers and small businesses. The system includes six main entities: User, Client, Invoice, InvoiceItem, Payment, and RecurringInvoice. Each user can manage multiple clients and generate invoices for them. Invoices can have multiple items and receive multiple payments. Recurring invoices allow users to automate billing on a schedule. The relationships are primarily one-to-many, ensuring a clear and efficient data model.
