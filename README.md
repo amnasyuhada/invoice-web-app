@@ -129,8 +129,8 @@ Functions: View, filter, and manage payments with pagination and bulk actions.
 ## Captured Screens with Descriptions
 
 1. Dashboard : 
-Provide summarised view of invoice management. It includes total revenue, invoices sent, 
-pending invoices and overdue invoices. This page also display the payment trends line graph 
-and few tables on recent invoices, recent payment and recurring invoices.
+Provides summarized view of invoice management. It includes total revenue, invoices sent, 
+pending invoices and overdue invoices. This page also displays the payment trends line graph 
+and several tables showing recent invoices, recent payment and recurring invoices.
 
 ![1. Dashboard](https://raw.githubusercontent.com/amnasyuhada/invoice-web-app/main/Dashboard(Web).png)
