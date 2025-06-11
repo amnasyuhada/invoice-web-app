@@ -109,7 +109,7 @@ Functions: View, filter, and manage payments with pagination and bulk actions.
 
 5. Client
 
-![5  Clients]((https://raw.githubusercontent.com/amnasyuhada/invoice-web-app/main/prototypeClients.png)
+![5  Clients](https://raw.githubusercontent.com/amnasyuhada/invoice-web-app/main/prototypeClients.png)
 
 6.1. Invoice
 
