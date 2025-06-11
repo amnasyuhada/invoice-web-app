@@ -128,7 +128,7 @@ Functions: View, filter, and manage payments with pagination and bulk actions.
 
 ## Captured Screens with Descriptions
 
-## 1. Dashboard : 
+1. Dashboard : 
 Provide summarised view of invoice management. It includes total revenue, invoices sent, 
 pending invoices and overdue invoices. This page also display the payment trends line graph 
 and few tables on recent invoices, recent payment and recurring invoices.
