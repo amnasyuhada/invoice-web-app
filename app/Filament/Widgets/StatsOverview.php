@@ -4,32 +4,58 @@ namespace App\Filament\Widgets;
 
 use Filament\Widgets\StatsOverviewWidget as BaseWidget;
 use Filament\Widgets\StatsOverviewWidget\Stat;
+use App\Models\Invoice;
+use App\Models\RecurringInvoice;
+use App\Models\Payment;
+use Carbon\Carbon;
 
 class StatsOverview extends BaseWidget
 {
     protected function getStats(): array
     {
+        // Total invoices sent
+        $sentInvoices = Invoice::where('status','sent')->count();
+
+        // Total invoices pending
+        $pendingInvoices = Invoice::where('status','pending')->count();
+
+        // Total invoices overdue
+        $overdueInvoices = Invoice::where('status','overdue')->count();
+
+        $totalReceived = Payment::sum('amount');
+
         return [
-            Stat::make('Total Received', '192.1k')
-                ->description('32k increase')
-                ->descriptionIcon('heroicon-m-arrow-trending-up')
-                ->chart([7, 2, 10, 3, 15, 4, 17])
-                ->color('success'),
-            Stat::make('Invoice Sent', '21%')
-                ->description('7% increase')
-                ->descriptionIcon('heroicon-m-arrow-trending-down')
-                ->chart([7, 2, 10, 3, 15, 4, 17])
-                ->color('danger'),
-            Stat::make('Outstanding', '3:12')
-                ->description('3% increase')
-                ->descriptionIcon('heroicon-m-arrow-trending-up')
-                ->chart([7, 2, 10, 3, 15, 4, 17])
-                ->color('success'),
-            Stat::make('Overdue', '3:12')
-                ->description('3% increase')
-                ->descriptionIcon('heroicon-m-arrow-trending-up')
-                ->chart([7, 2, 10, 3, 15, 4, 17])
-                ->color('success'),
+
+            // Widgets for Total Recieved
+            Stat::make('Total Received','RM'.number_format($totalReceived,2))
+
+            ->description('Revenue (Demo Data)')
+            ->descriptionIcon('heroicon-m-arrow-trending-up')
+            ->color('success')
+            ->chart([7, 3, 4, 5, 6, 3, 5, 3])
+            ->extraAttributes(['class' => 'border-2 border-dashed border-success-500']),
+
+            // Widgets for Invoice Sent
+            Stat::make('Invoices Sent', $sentInvoices . ' Invoices')
+
+            ->description('Total Invoices Sent')
+            ->color('info')
+            ->extraAttributes(['class' => 'border-2 border border-info-500']),
+
+
+            // Widgets for Pending
+            Stat::make('Pending', $pendingInvoices . ' Invoices')
+            ->description('This Month')
+            ->color('warning')
+            ->extraAttributes(['class' => 'border-2 border border-warning-500']),
+
+            // Widgets for Overdue
+            Stat::make('Overdue', $overdueInvoices . ' Invoices')
+            ->description('Pending')
+            ->color('danger')
+            ->chart([7, 3, 4, 5, 6, 3, 5, 3])
+            ->extraAttributes(['class' => 'border-2 border-dashed border-danger-500']),
+
         ];
     }
 }
