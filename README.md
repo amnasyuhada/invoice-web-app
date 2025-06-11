@@ -94,15 +94,18 @@ Functions: View, filter, and manage payments with pagination and bulk actions.
 
 1. Sign up
 
-![2  Sign Up](https://github.com/user-attachments/assets/3124cbc2-4d9f-499f-a65a-feda76c920d8)
+![2  Sign Up](https://github.com/user-attachments/assets/6f5ca372-b40a-420b-9aff-27d4db348095)
+
 
 2. Login
 
-![1  Login](https://github.com/user-attachments/assets/ee5a864f-ac99-42b1-b643-558a0e51a4b2)
+![1  Login](https://github.com/user-attachments/assets/6ccf1725-f148-4159-a9e8-119c2bd84018)
+
 
 3. Profile 
 
-![6 Profile](https://github.com/user-attachments/assets/80bbf3cc-df28-4d43-8ae9-34543ee3586a)
+![6 Profile](https://github.com/user-attachments/assets/ecf88bf5-b732-46b6-859b-cbd494a494b7)
+
 
 4. Dashboard
 
@@ -112,19 +115,18 @@ Functions: View, filter, and manage payments with pagination and bulk actions.
 
 ![5  Clients](https://raw.githubusercontent.com/amnasyuhada/invoice-web-app/main/prototypeClients.png)
 
-6.1. Invoice
+## 6.1. Invoice
 
-![8  Invoice](https://github.com/user-attachments/assets/e6c50b0d-7c9a-4ca7-8313-41ef0cd81826)
-
-6.2. Recurring Invoice
-
-![9  Recurring Invoices](https://github.com/user-attachments/assets/fb4cfea6-c14e-4a20-914b-ca80772f8292)
+![8  Invoice](https://github.com/user-attachments/assets/47ccfb8f-6e0f-43da-9729-04867ef88893)
 
 
-7. Payment
-![Screenshot 2025-06-12 004546](https://github.com/user-attachments/assets/d4bb5e15-bc2b-446d-af78-d7653d3d025a)
-9. 
-![7 Payment](https://github.com/user-attachments/assets/b373d073-edae-4018-a220-7195ce4df1b9)
+## 6.2. Recurring Invoice
+
+![Uploading 9. Recurring Invoices.png…]()
+
+
+## 7. Payment
+![7 Payment](https://github.com/user-attachments/assets/e00c1fae-3d37-4e57-ba66-a52725af7b50)
 
 
 ## 6. Link youtube : https://youtube.com/shorts/b37x3u3bXmc?feature=shared
