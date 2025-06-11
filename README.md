@@ -122,7 +122,7 @@ Functions: View, filter, and manage payments with pagination and bulk actions.
 
 ## 6.2. Recurring Invoice
 
-![Uploading 9. Recurring Invoices.png…]()
+![9  Recurring Invoices](https://github.com/user-attachments/assets/6998a5b0-577c-4e04-9a44-990119c0327c)
 
 
 ## 7. Payment
