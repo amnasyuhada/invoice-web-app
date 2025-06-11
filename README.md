@@ -145,6 +145,5 @@ Customer page of the Invoice Sensei system, displaying a searchable and sortable
 
 7. Payment:
 The payment page allows users to record new customer payments by entering details such as the date, payment number, amount, payment method, and notes. It ensures accurate tracking of transactions for each customer in the system.
-![Screenshot 2025-06-12 023910](https://github.com/user-attachments/assets/72d2f478-62ea-422a-9010-e4ee7da50331)
 
 
