@@ -120,9 +120,15 @@ Functions: View, filter, and manage payments with pagination and bulk actions.
 ![9  Recurring Invoices](https://github.com/user-attachments/assets/fb4cfea6-c14e-4a20-914b-ca80772f8292)
 
 7. Payment
-
+8. 
 ![7 Payment](https://github.com/user-attachments/assets/b373d073-edae-4018-a220-7195ce4df1b9)
 
 
 ## 6. Link youtube : https://youtube.com/shorts/b37x3u3bXmc?feature=shared
 
+## Captured Screens with Descriptions
+
+## 1. Dashboard ## : 
+    Provide summarised view of invoice management. It includes total revenue, invoices sent, pending invoices and overdue invoices. This page also display the payment trends line          graph and few tables on recent invoices, recent payment and recurring invoices.
+
+![1. Dashboard](https://raw.githubusercontent.com/amnasyuhada/invoice-web-app/main/Dashboard(Web).png)
