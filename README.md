@@ -76,8 +76,9 @@ The main objectives of this web application is to:
 
 This ERD represents the data structure of a Simple Invoice System designed for freelancers and small businesses. The system includes six main entities: User, Client, Invoice, InvoiceItem, Payment, and RecurringInvoice. Each user can manage multiple clients and generate invoices for them. Invoices can have multiple items and receive multiple payments. Recurring invoices allow users to automate billing on a schedule. The relationships are primarily one-to-many, ensuring a clear and efficient data model.
 
+
 ## Sequence Diagram
-![Sequence_DiagramV3](https://github.com/user-attachments/assets/b7f271d4-b620-4d85-9918-e9be8b32bd58)
+![Sequence_DiagramV3](https://github.com/user-attachments/assets/206cd3de-7a9e-4a54-8f90-78aea90918e7)
 
 Summary:
 
