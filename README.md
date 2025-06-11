@@ -134,3 +134,9 @@ pending invoices and overdue invoices. This page also displays the payment trend
 and several tables showing recent invoices, recent payment and recurring invoices.
 
 ![1. Dashboard](https://raw.githubusercontent.com/amnasyuhada/invoice-web-app/main/Dashboard(Web).png)
+
+
+5. Customer :
+Customer page of the Invoice Sensei system, displaying a searchable and sortable table of customer records. Key details such as customer name, email, balance, amount paid, last login, date created, date created, updated and deleted are listed. The interface includes options to add a new customer or perform additional actions.
+![5  Clients](https://raw.githubusercontent.com/amnasyuhada/invoice-web-app/main/Customer.png)
+
