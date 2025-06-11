@@ -131,7 +131,7 @@ Functions: View, filter, and manage payments with pagination and bulk actions.
 
 ## Captured Screens with Descriptions
 
-1. Dashboard : 
+## 1. Dashboard : 
 Provides summarized view of invoice management. It includes total revenue, invoices sent, 
 pending invoices and overdue invoices. This page also displays the payment trends line graph 
 and several tables showing recent invoices, recent payment and recurring invoices.
@@ -139,11 +139,13 @@ and several tables showing recent invoices, recent payment and recurring invoice
 ![1. Dashboard](https://raw.githubusercontent.com/amnasyuhada/invoice-web-app/main/Dashboard(Web).png)
 
 
-5. Customer :
+## 5. Customer :
 Customer page of the Invoice Sensei system, displaying a searchable and sortable table of customer records. Key details such as customer name, email, balance, amount paid, last login, date created, date created, updated and deleted are listed. The interface includes options to add a new customer or perform additional actions.
 ![5  Clients](https://raw.githubusercontent.com/amnasyuhada/invoice-web-app/main/Customer.png)
 
-7. Payment:
+## 7. Payment:
 The payment page allows users to record new customer payments by entering details such as the date, payment number, amount, payment method, and notes. It ensures accurate tracking of transactions for each customer in the system.
+
+![image](https://github.com/user-attachments/assets/7ba81baa-6f74-40c5-938b-f3297ab47265)
 
 
