@@ -132,13 +132,14 @@ Functions: View, filter, and manage payments with pagination and bulk actions.
 ## 6. Link youtube : https://youtube.com/shorts/b37x3u3bXmc?feature=shared
 
 ## Captured Screens with Descriptions
-1. Enabling Extension=intl in php.ini
-To allow image manipulation and file handling (like resizing logos), the intl extension in PHP must be enabled.
-1. Enabling ZIP Extension in php.ini
-To allow image manipulation and file handling (like resizing logos), the zip extension in PHP must be enabled.
-2. Installing Intervention Image (v3) via Composer
-To allow image processing like resizing, I used the Intervention Image package.
-composer require intervention/image
+1. in .env file change the http/localhost to 127.0.0.1.8000 and run php artisan storage:link
+2. Enabling Extension=intl in php.ini
+   To allow image manipulation and file handling (like resizing logos), the intl extension in PHP must be enabled.
+3. Enabling ZIP Extension in php.ini
+   To allow image manipulation and file handling (like resizing logos), the zip extension in PHP must be enabled.
+4. Installing Intervention Image (v3) via Composer
+   To allow image processing like resizing, I used the Intervention Image package.
+   composer require intervention/image
 
 ## 1. Login : 
 Allows authorized users to securely access the admin panel by entering their credentials. It serves as the entry point for administrators to manage the system, ensuring only authenticated users can access backend features and sensitive data.
