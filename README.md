@@ -145,7 +145,6 @@ The User Profile Page serves as a centralized interface where authenticated user
 ![Screenshot 2025-06-12 034307](https://github.com/user-attachments/assets/0ba03f91-c410-4f1d-9290-839c33d752d3)
 
 
-
 ## 4. Dashboard : 
 Provides summarized view of invoice management. It includes total revenue, invoices sent, 
 pending invoices and overdue invoices. This page also displays the payment trends line graph 
@@ -158,7 +157,13 @@ and several tables showing recent invoices, recent payment and recurring invoice
 Customer page of the Invoice Sensei system, displaying a searchable and sortable table of customer records. Key details such as customer name, email, balance, amount paid, last login, date created, date created, updated and deleted are listed. The interface includes options to add a new customer or perform additional actions.
 ![5  Clients](https://raw.githubusercontent.com/amnasyuhada/invoice-web-app/main/Customer.png)
 
-## 8. Payment:
+## 6. Recurring Invoice :
+The RecurringInvoice feature automates the generation of invoices on a regular schedule (e.g., weekly, monthly). Instead of manually creating the same invoice repeatedly, users can set up a template that auto-generates invoices at set intervals.
+
+![Screenshot 2025-06-12 100526](https://github.com/user-attachments/assets/736ae518-2ba9-4654-b652-e18c525a8559)
+
+
+## 7. Payment:
 The payment page allows users to record new customer payments by entering details such as the date, payment number, amount, payment method, and notes. It ensures accurate tracking of transactions for each customer in the system.
 
 ![image](https://github.com/user-attachments/assets/7ba81baa-6f74-40c5-938b-f3297ab47265)
