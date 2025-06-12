@@ -137,6 +137,7 @@ Allows authorized users to securely access the admin panel by entering their cre
 ![image](https://github.com/user-attachments/assets/d1bfbf6f-f710-4ca6-9cee-b959c7ea53d9)
 
 ## 2. Sign Up : 
+![image](https://github.com/user-attachments/assets/35b4a7bb-1778-486d-aeb3-9bebc1319987)
 
 ## 3. User Profile : 
 The User Profile Page serves as a centralized interface where authenticated users can view and manage their personal information such as name, email, and profile photo. It enables users to update their details, change their password, and optionally upload a profile picture or adjust personal preferences. This page plays a crucial role in providing self-service account management, making it especially valuable in applications that involve user accounts, team memberships, or administrative roles.
