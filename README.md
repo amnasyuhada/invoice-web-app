@@ -175,28 +175,30 @@ Customer page of the Invoice Sensei system, displaying a searchable and sortable
 The system provides comprehensive features for managing both items and invoices. In the **Invoice page**, users can create and edit invoices by selecting customers, adding items, and adjusting quantities. The page offers sorting options for invoice details, such as the status, date, invoice number, and timestamps for creation and updates. This allows users to easily track and manage invoice history. In the **Item management page**, users can create new items by adding product details like name, description, price, and weight. It also includes the option to upload product images and attach files. Users can review the item list and sort it by product name or other information, making it easy to navigate and find specific products. These features, combined with sorting and review options, help streamline the management of inventory and invoices.
 
 ![image](https://github.com/user-attachments/assets/4731ffc4-cded-4b1b-ac02-6d938da4bdb4)
-![image](https://github.com/user-attachments/assets/feb05713-fa32-4569-8f63-58cb128a445b)
-![image](https://github.com/user-attachments/assets/c5838376-85f4-42f1-9850-e5862ad12d80)
-![image](https://github.com/user-attachments/assets/b67737f2-db87-4bd0-b772-472df7683bc9)
-![image](https://github.com/user-attachments/assets/60e47820-2528-4efc-9405-f0ed33e7b8a6)
+![image](https://github.com/user-attachments/assets/a7862544-dc0d-40e0-9138-dd9f3fd55493)
+
+![image](https://github.com/user-attachments/assets/3c1f13a9-7cb0-409a-bfad-37113f8847a8)
+![image](https://github.com/user-attachments/assets/9e44105c-8a17-4a53-8c5c-5fad45fcaf86)
+![image](https://github.com/user-attachments/assets/8880b00c-6e72-4565-a6a7-0853af67d95b)
+![image](https://github.com/user-attachments/assets/3026d75a-486d-4960-a0c3-d2965857a9c0)
+![image](https://github.com/user-attachments/assets/994b652e-0ef0-41ba-9cfa-bfe48ff21538)
 
 
 ## 6.2 Recurring Invoice :
 The RecurringInvoice feature automates the generation of invoices on a regular schedule (e.g., weekly, monthly). Instead of manually creating the same invoice repeatedly, users can set up a template that auto-generates invoices at set intervals. More importantly highlights the status such as sent, refund, overdue, or pending. Customer also can check their total amount referring to their frequency and limit.
 
 ![Screenshot 2025-06-12 100526](https://github.com/user-attachments/assets/736ae518-2ba9-4654-b652-e18c525a8559)
-![image](https://github.com/user-attachments/assets/d80db125-a5b0-46ec-96de-c1ae8774333d)
-![image](https://github.com/user-attachments/assets/264a7811-10c9-4ba4-86b6-754bea08d0e4)
-
+![image](https://github.com/user-attachments/assets/e933f195-1ae2-4731-a34f-95255bb38934)
+![image](https://github.com/user-attachments/assets/582c3dd0-611c-49b7-939a-89b2b3a01692)
+![image](https://github.com/user-attachments/assets/9f4cf4ce-4439-4442-8992-e545b3675c5e)
 
 ## 7. Payment:
 The payment page allows users to record new customer payments by entering details such as the date, payment number, amount, payment method, and notes. It ensures accurate tracking of transactions for each customer in the system. 
 
 ![image](https://github.com/user-attachments/assets/7ba81baa-6f74-40c5-938b-f3297ab47265)
 ![image](https://github.com/user-attachments/assets/8a80a395-ac6a-4f17-824c-39a378c7a4a6)
-![image](https://github.com/user-attachments/assets/9dc185fa-d8ea-4ad1-85b9-e8f1f123f661)
 ![image](https://github.com/user-attachments/assets/4f1a0225-7ce4-44e5-998d-a5851a98a75f)
-
+![image](https://github.com/user-attachments/assets/9dc185fa-d8ea-4ad1-85b9-e8f1f123f661)
 ---
 
 # Challenge/difficulties to develop the application
