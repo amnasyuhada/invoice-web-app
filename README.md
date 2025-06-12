@@ -169,30 +169,48 @@ and several tables showing recent invoices, recent payment and recurring invoice
 Customer page of the Invoice Sensei system, displaying a searchable and sortable table of customer records. Key details such as customer name, email, balance, amount paid, last login, date created, date created, updated and deleted are listed. The interface includes options to add a new customer or perform additional actions.
 
 ![5  Clients](https://raw.githubusercontent.com/amnasyuhada/invoice-web-app/main/Customer.png)
+![image](https://github.com/user-attachments/assets/25c5b2c9-5dfd-4d33-91a0-e92e687ab39b)
+![image](https://github.com/user-attachments/assets/24b60872-e5f8-4211-8db9-782286c09712)
+![image](https://github.com/user-attachments/assets/177303e6-2df9-44aa-96fc-d06f4587222f)
+![image](https://github.com/user-attachments/assets/3ca14fe1-98a9-462d-b736-84fc1761b1c7)
 
 
 ## 6.1 Invoice :
 The system provides comprehensive features for managing both items and invoices. In the **Invoice page**, users can create and edit invoices by selecting customers, adding items, and adjusting quantities. The page offers sorting options for invoice details, such as the status, date, invoice number, and timestamps for creation and updates. This allows users to easily track and manage invoice history. In the **Item management page**, users can create new items by adding product details like name, description, price, and weight. It also includes the option to upload product images and attach files. Users can review the item list and sort it by product name or other information, making it easy to navigate and find specific products. These features, combined with sorting and review options, help streamline the management of inventory and invoices.
 
-![image](https://github.com/user-attachments/assets/4731ffc4-cded-4b1b-ac02-6d938da4bdb4)
-![image](https://github.com/user-attachments/assets/a7862544-dc0d-40e0-9138-dd9f3fd55493)
-
-![image](https://github.com/user-attachments/assets/3c1f13a9-7cb0-409a-bfad-37113f8847a8)
-![image](https://github.com/user-attachments/assets/9e44105c-8a17-4a53-8c5c-5fad45fcaf86)
-![image](https://github.com/user-attachments/assets/8880b00c-6e72-4565-a6a7-0853af67d95b)
-![image](https://github.com/user-attachments/assets/3026d75a-486d-4960-a0c3-d2965857a9c0)
-![image](https://github.com/user-attachments/assets/994b652e-0ef0-41ba-9cfa-bfe48ff21538)
+![image](https://github.com/user-attachments/assets/d2589231-1474-4aaf-82ee-3085a5158c12)
+![image](https://github.com/user-attachments/assets/5917accc-f22d-4e2e-9ccf-e2a30212f608)
+![image](https://github.com/user-attachments/assets/b0f3d996-e659-49e3-aa3d-7123bfe90459)
+![image](https://github.com/user-attachments/assets/aa938215-39f0-40ab-914c-bfd6a1ce1b9b)
+![image](https://github.com/user-attachments/assets/65b186ca-2f11-4516-9d84-8cbf080e7e21)
+![image](https://github.com/user-attachments/assets/3ea620a5-1147-4356-9477-38eb81851faa)
+![image](https://github.com/user-attachments/assets/c93c908d-3584-4c34-8a57-af51e4284112)
+![image](https://github.com/user-attachments/assets/0698796c-bb76-4e39-9cfb-831497052ff3)
+![image](https://github.com/user-attachments/assets/15ca6e7d-0556-45d6-b141-3356fd1b9189)
+![image](https://github.com/user-attachments/assets/886e09a5-be37-4214-9f73-470b82588424)
+![image](https://github.com/user-attachments/assets/a86c67ae-763f-4491-ab26-19e2e45d56b6)
+![image](https://github.com/user-attachments/assets/049996df-a560-40a8-9ed4-685acdc48aba)
+![image](https://github.com/user-attachments/assets/fc99b912-1230-4c1c-9a30-867168ea55c1)
+![image](https://github.com/user-attachments/assets/0d194617-a646-4f27-9090-f9e0605cea7c)
 
 
 ## 6.2 Recurring Invoice :
 The RecurringInvoice feature automates the generation of invoices on a regular schedule (e.g., weekly, monthly). Instead of manually creating the same invoice repeatedly, users can set up a template that auto-generates invoices at set intervals. More importantly highlights the status such as sent, refund, overdue, or pending. Customer also can check their total amount referring to their frequency and limit.
 
-<img src="https://github.com/user-attachments/assets/736ae518-2ba9-4654-b652-e18c525a8559" >
-<img src="https://github.com/user-attachments/assets/582c3dd0-611c-49b7-939a-89b2b3a01692" >
-<img src="https://github.com/user-attachments/assets/e933f195-1ae2-4731-a34f-95255bb38934" >
-<img src="https://github.com/user-attachments/assets/8880b00c-6e72-4565-a6a7-0853af67d95b" >
-<img src="https://github.com/user-attachments/assets/3026d75a-486d-4960-a0c3-d2965857a9c0" >
-<img src="https://github.com/user-attachments/assets/9f4cf4ce-4439-4442-8992-e545b3675c5e" >
+![image](https://github.com/user-attachments/assets/5450cba3-f92b-4c6a-a284-361bcce87fe2)
+![image](https://github.com/user-attachments/assets/8cda46b8-82b3-4260-9438-c5ed2f0b7516)
+![image](https://github.com/user-attachments/assets/87587c22-15f4-42d7-bcde-e1fdcbbc2db7)
+![image](https://github.com/user-attachments/assets/14c0e3ff-ad8c-4492-9ace-bc72aaba190d)
+![image](https://github.com/user-attachments/assets/9aa7377f-b2a2-494e-aad2-7d580351209f)
+![image](https://github.com/user-attachments/assets/bf57b3b4-41a5-4cb8-aab1-e5723867609f)
+![image](https://github.com/user-attachments/assets/5e07f6f5-0d96-414c-95f2-42552b4c73e0)
+![image](https://github.com/user-attachments/assets/facb4fc2-a1cc-4340-8c18-0d97fd1abfba)
+![image](https://github.com/user-attachments/assets/d6d25efd-94a5-4744-963d-725ad2dffb6a)
+![image](https://github.com/user-attachments/assets/8c0095d8-bf4c-4a1e-b4f0-647c863e2d75)
+![image](https://github.com/user-attachments/assets/c6e5f84c-1190-4b6b-9cc8-6714198cecb4)
+![image](https://github.com/user-attachments/assets/4aad37ec-46e0-48f2-b1d8-beb3af84b800)
+![image](https://github.com/user-attachments/assets/166df06e-6714-4353-8e83-9ed372cf1c14)
+![image](https://github.com/user-attachments/assets/9ebedbbf-4346-4f44-bec9-d97d60a940af)
 
 
 ## 7. Payment:
@@ -203,6 +221,15 @@ The payment page allows users to record new customer payments by entering detail
 ![image](https://github.com/user-attachments/assets/4f1a0225-7ce4-44e5-998d-a5851a98a75f)
 ![image](https://github.com/user-attachments/assets/9dc185fa-d8ea-4ad1-85b9-e8f1f123f661)
 ---
+
+## 7. Additional (Maintainance & Display Mode (Bright Mode & Dark Mode) :
+
+![image](https://github.com/user-attachments/assets/3abd4bbc-12c4-47e9-a3b2-75e243993f4a)
+![image](https://github.com/user-attachments/assets/4af1357a-b10c-4f40-88e4-9bde43086a07)
+![image](https://github.com/user-attachments/assets/28d93dde-a960-4bd2-bd0d-ce2a12f7892e)
+![image](https://github.com/user-attachments/assets/6432104d-d347-4366-9731-3f1f061bbf5e)
+![image](https://github.com/user-attachments/assets/c49ff418-a111-4bb7-a01c-e5e7bdf70720)
+
 
 # Challenge/difficulties to develop the application
 
@@ -225,21 +252,24 @@ The payment page allows users to record new customer payments by entering detail
 * Designing and maintaining relationships between Users, Clients, Invoices, Invoice Items, Payments, and Recurring Invoices.
 * Ensuring data integrity (e.g. a payment must belong to a valid invoice and client).
 * Handling cascading actions like deleting a client and ensuring related invoices/payments are handled correctly.
+* Creating fakers for all data.
   
-
 ### **4. Invoice Logic and Automation**
 
 * Automatically calculating totals and taxes from invoice items.
 * Updating invoice status (e.g. from “Sent” to “Paid” or “Overdue”) based on payment status.
 * Handling partial payments and adjusting balances dynamically.
+* Adding items for the invoice type for user to kick in the items data for easy checking. 
   
 
 ### **5. Recurring Invoices Functionality**
 
 * Setting up a system to schedule and auto-generate invoices at regular intervals.
 * Ensuring proper linking between recurring templates and the actual generated invoices.
+* Updating invoice status (e.g. from “Sent” to “Paid” or “Overdue”) based on payment status.
 * Handling different recurrence intervals (weekly, monthly, etc.).
-  
+* Adding items for the invoice type for user to kick in the items data for easy checking. 
+
 
 ### **6. Currency and Branding Customization**
 
