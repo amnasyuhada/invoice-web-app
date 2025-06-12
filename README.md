@@ -166,7 +166,7 @@ The RecurringInvoice feature automates the generation of invoices on a regular s
 
 ![Screenshot 2025-06-12 100526](https://github.com/user-attachments/assets/736ae518-2ba9-4654-b652-e18c525a8559)
 
-## . Payment:
+## 7. Payment:
 The payment page allows users to record new customer payments by entering details such as the date, payment number, amount, payment method, and notes. It ensures accurate tracking of transactions for each customer in the system.
 
 ![image](https://github.com/user-attachments/assets/7ba81baa-6f74-40c5-938b-f3297ab47265)
