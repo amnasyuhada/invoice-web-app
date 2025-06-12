@@ -134,16 +134,19 @@ Functions: View, filter, and manage payments with pagination and bulk actions.
 ## Captured Screens with Descriptions
 ## 1. Login : 
 Allows authorized users to securely access the admin panel by entering their credentials. It serves as the entry point for administrators to manage the system, ensuring only authenticated users can access backend features and sensitive data.
+
 ![image](https://github.com/user-attachments/assets/d1bfbf6f-f710-4ca6-9cee-b959c7ea53d9)
 
 ## 2. Sign Up : 
+Sign Up lets new users create an account by filling out a registration form (e.g., name, email, password, etc.), allowing access to your app.
+
 ![image](https://github.com/user-attachments/assets/35b4a7bb-1778-486d-aeb3-9bebc1319987)
 
 ## 3. User Profile : 
 The User Profile Page serves as a centralized interface where authenticated users can view and manage their personal information such as name, email, and profile photo. It enables users to update their details, change their password, and optionally upload a profile picture or adjust personal preferences. This page plays a crucial role in providing self-service account management, making it especially valuable in applications that involve user accounts, team memberships, or administrative roles.
 
 ![UserProfile](https://github.com/user-attachments/assets/d5d99cc4-dac8-4cef-b37f-7ed38acb7237)
-
+![Screenshot 2025-06-12 034307](https://github.com/user-attachments/assets/0ba03f91-c410-4f1d-9290-839c33d752d3)
 
 ## 4. Dashboard : 
 Provides summarized view of invoice management. It includes total revenue, invoices sent, 
@@ -155,9 +158,15 @@ and several tables showing recent invoices, recent payment and recurring invoice
 
 ## 5. Customer :
 Customer page of the Invoice Sensei system, displaying a searchable and sortable table of customer records. Key details such as customer name, email, balance, amount paid, last login, date created, date created, updated and deleted are listed. The interface includes options to add a new customer or perform additional actions.
+
 ![5  Clients](https://raw.githubusercontent.com/amnasyuhada/invoice-web-app/main/Customer.png)
 
-## 6. Payment:
+## 6. Recurring Invoice :
+The RecurringInvoice feature automates the generation of invoices on a regular schedule (e.g., weekly, monthly). Instead of manually creating the same invoice repeatedly, users can set up a template that auto-generates invoices at set intervals.
+
+![Screenshot 2025-06-12 100526](https://github.com/user-attachments/assets/736ae518-2ba9-4654-b652-e18c525a8559)
+
+## . Payment:
 The payment page allows users to record new customer payments by entering details such as the date, payment number, amount, payment method, and notes. It ensures accurate tracking of transactions for each customer in the system.
 
 ![image](https://github.com/user-attachments/assets/7ba81baa-6f74-40c5-938b-f3297ab47265)
