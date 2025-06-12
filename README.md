@@ -71,13 +71,14 @@ The main objectives of this web application is to:
 
 
 ## ERD Diagram
-![webapp drawio (2)](https://github.com/user-attachments/assets/62aefa57-2a80-402a-9ce4-4a661f50d579)
+![webapp drawio (2)](https://github.com/user-attachments/assets/cca9d2bf-b5ff-429d-99b0-7fc984f9a06f)
 
 
 This ERD represents the data structure of a Simple Invoice System designed for freelancers and small businesses. The system includes six main entities: User, Client, Invoice, InvoiceItem, Payment, and RecurringInvoice. Each user can manage multiple clients and generate invoices for them. Invoices can have multiple items and receive multiple payments. Recurring invoices allow users to automate billing on a schedule. The relationships are primarily one-to-many, ensuring a clear and efficient data model.
 
+
 ## Sequence Diagram
-![Sequence_DiagramV3](https://github.com/user-attachments/assets/b7f271d4-b620-4d85-9918-e9be8b32bd58)
+![Sequence_DiagramV3](https://github.com/user-attachments/assets/206cd3de-7a9e-4a54-8f90-78aea90918e7)
 
 Summary:
 
@@ -93,36 +94,69 @@ Functions: View, filter, and manage payments with pagination and bulk actions.
 
 1. Sign up
 
-![2  Sign Up](https://github.com/user-attachments/assets/3124cbc2-4d9f-499f-a65a-feda76c920d8)
+![2  Sign Up](https://github.com/user-attachments/assets/6f5ca372-b40a-420b-9aff-27d4db348095)
+
 
 2. Login
 
-![1  Login](https://github.com/user-attachments/assets/ee5a864f-ac99-42b1-b643-558a0e51a4b2)
+![1  Login](https://github.com/user-attachments/assets/6ccf1725-f148-4159-a9e8-119c2bd84018)
+
 
 3. Profile 
 
-![6 Profile](https://github.com/user-attachments/assets/80bbf3cc-df28-4d43-8ae9-34543ee3586a)
+![6 Profile](https://github.com/user-attachments/assets/ecf88bf5-b732-46b6-859b-cbd494a494b7)
+
 
 4. Dashboard
 
-![4 Dashboard](https://github.com/user-attachments/assets/b20912d3-a73c-4eae-abbd-3112283bba8a)
+![4. Dashboard](https://raw.githubusercontent.com/amnasyuhada/invoice-web-app/main/4.Dashboard.png)
 
 5. Client
 
-![5  Clients](https://github.com/user-attachments/assets/82363bdf-bcef-4f54-ab84-132521bab3c9)
+![5  Clients](https://raw.githubusercontent.com/amnasyuhada/invoice-web-app/main/prototypeClients.png)
 
-6.1. Invoice
+## 6.1. Invoice
 
-![8  Invoice](https://github.com/user-attachments/assets/e6c50b0d-7c9a-4ca7-8313-41ef0cd81826)
+![8  Invoice](https://github.com/user-attachments/assets/47ccfb8f-6e0f-43da-9729-04867ef88893)
 
-6.2. Recurring Invoice
 
-![9  Recurring Invoices](https://github.com/user-attachments/assets/fb4cfea6-c14e-4a20-914b-ca80772f8292)
+## 6.2. Recurring Invoice
 
-7. Payment
+![9  Recurring Invoices](https://github.com/user-attachments/assets/6998a5b0-577c-4e04-9a44-990119c0327c)
 
-![7 Payment](https://github.com/user-attachments/assets/b373d073-edae-4018-a220-7195ce4df1b9)
+
+## 7. Payment
+![7 Payment](https://github.com/user-attachments/assets/e00c1fae-3d37-4e57-ba66-a52725af7b50)
 
 
 ## 6. Link youtube : https://youtube.com/shorts/b37x3u3bXmc?feature=shared
+
+## Captured Screens with Descriptions
+## 1. Login : 
+
+## 2. Sign Up : 
+
+## 3. User Profile : 
+The User Profile Page serves as a centralized interface where authenticated users can view and manage their personal information such as name, email, and profile photo. It enables users to update their details, change their password, and optionally upload a profile picture or adjust personal preferences. This page plays a crucial role in providing self-service account management, making it especially valuable in applications that involve user accounts, team memberships, or administrative roles.
+
+![UserProfile](https://github.com/user-attachments/assets/d5d99cc4-dac8-4cef-b37f-7ed38acb7237)
+
+
+## 4. Dashboard : 
+Provides summarized view of invoice management. It includes total revenue, invoices sent, 
+pending invoices and overdue invoices. This page also displays the payment trends line graph 
+and several tables showing recent invoices, recent payment and recurring invoices.
+
+![1. Dashboard](https://raw.githubusercontent.com/amnasyuhada/invoice-web-app/main/Dashboard(Web).png)
+
+
+## 5. Customer :
+Customer page of the Invoice Sensei system, displaying a searchable and sortable table of customer records. Key details such as customer name, email, balance, amount paid, last login, date created, date created, updated and deleted are listed. The interface includes options to add a new customer or perform additional actions.
+![5  Clients](https://raw.githubusercontent.com/amnasyuhada/invoice-web-app/main/Customer.png)
+
+## 8. Payment:
+The payment page allows users to record new customer payments by entering details such as the date, payment number, amount, payment method, and notes. It ensures accurate tracking of transactions for each customer in the system.
+
+![image](https://github.com/user-attachments/assets/7ba81baa-6f74-40c5-938b-f3297ab47265)
+
 
