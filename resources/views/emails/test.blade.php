@@ -1,1 +1,0 @@
-<h2>Hello, this is a queued test email from Laravel!</h2>
