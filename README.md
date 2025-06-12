@@ -140,6 +140,8 @@ Functions: View, filter, and manage payments with pagination and bulk actions.
 The User Profile Page serves as a centralized interface where authenticated users can view and manage their personal information such as name, email, and profile photo. It enables users to update their details, change their password, and optionally upload a profile picture or adjust personal preferences. This page plays a crucial role in providing self-service account management, making it especially valuable in applications that involve user accounts, team memberships, or administrative roles.
 
 ![UserProfile](https://github.com/user-attachments/assets/d5d99cc4-dac8-4cef-b37f-7ed38acb7237)
+![Screenshot 2025-06-12 034307](https://github.com/user-attachments/assets/0ba03f91-c410-4f1d-9290-839c33d752d3)
+
 
 
 ## 4. Dashboard : 
