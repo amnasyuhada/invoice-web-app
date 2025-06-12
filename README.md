@@ -132,8 +132,17 @@ Functions: View, filter, and manage payments with pagination and bulk actions.
 ## 6. Link youtube : https://youtube.com/shorts/b37x3u3bXmc?feature=shared
 
 ## Captured Screens with Descriptions
+## 1. Login : 
 
-## 1. Dashboard : 
+## 2. Sign Up : 
+
+## 3. User Profile : 
+The User Profile Page serves as a centralized interface where authenticated users can view and manage their personal information such as name, email, and profile photo. It enables users to update their details, change their password, and optionally upload a profile picture or adjust personal preferences. This page plays a crucial role in providing self-service account management, making it especially valuable in applications that involve user accounts, team memberships, or administrative roles.
+
+![UserProfile](https://github.com/user-attachments/assets/d5d99cc4-dac8-4cef-b37f-7ed38acb7237)
+
+
+## 4. Dashboard : 
 Provides summarized view of invoice management. It includes total revenue, invoices sent, 
 pending invoices and overdue invoices. This page also displays the payment trends line graph 
 and several tables showing recent invoices, recent payment and recurring invoices.
@@ -145,7 +154,7 @@ and several tables showing recent invoices, recent payment and recurring invoice
 Customer page of the Invoice Sensei system, displaying a searchable and sortable table of customer records. Key details such as customer name, email, balance, amount paid, last login, date created, date created, updated and deleted are listed. The interface includes options to add a new customer or perform additional actions.
 ![5  Clients](https://raw.githubusercontent.com/amnasyuhada/invoice-web-app/main/Customer.png)
 
-## 7. Payment:
+## 8. Payment:
 The payment page allows users to record new customer payments by entering details such as the date, payment number, amount, payment method, and notes. It ensures accurate tracking of transactions for each customer in the system.
 
 ![image](https://github.com/user-attachments/assets/7ba81baa-6f74-40c5-938b-f3297ab47265)
