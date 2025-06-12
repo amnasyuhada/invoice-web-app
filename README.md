@@ -187,10 +187,13 @@ The system provides comprehensive features for managing both items and invoices.
 ## 6.2 Recurring Invoice :
 The RecurringInvoice feature automates the generation of invoices on a regular schedule (e.g., weekly, monthly). Instead of manually creating the same invoice repeatedly, users can set up a template that auto-generates invoices at set intervals. More importantly highlights the status such as sent, refund, overdue, or pending. Customer also can check their total amount referring to their frequency and limit.
 
-![Screenshot 2025-06-12 100526](https://github.com/user-attachments/assets/736ae518-2ba9-4654-b652-e18c525a8559)
-![image](https://github.com/user-attachments/assets/e933f195-1ae2-4731-a34f-95255bb38934)
-![image](https://github.com/user-attachments/assets/582c3dd0-611c-49b7-939a-89b2b3a01692)
-![image](https://github.com/user-attachments/assets/9f4cf4ce-4439-4442-8992-e545b3675c5e)
+<img src="https://github.com/user-attachments/assets/736ae518-2ba9-4654-b652-e18c525a8559" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/582c3dd0-611c-49b7-939a-89b2b3a01692" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/e933f195-1ae2-4731-a34f-95255bb38934" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/8880b00c-6e72-4565-a6a7-0853af67d95b" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/3026d75a-486d-4960-a0c3-d2965857a9c0" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/9f4cf4ce-4439-4442-8992-e545b3675c5e" width="300" height="300">
+
 
 ## 7. Payment:
 The payment page allows users to record new customer payments by entering details such as the date, payment number, amount, payment method, and notes. It ensures accurate tracking of transactions for each customer in the system. 
