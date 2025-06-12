@@ -159,4 +159,83 @@ The payment page allows users to record new customer payments by entering detail
 
 ![image](https://github.com/user-attachments/assets/7ba81baa-6f74-40c5-938b-f3297ab47265)
 
+---
+
+# Challenge/difficulties to develop the application
+
+### **1. Implementing User Authentication and Role Management**
+
+* Setting up secure login and registration using Filament’s authentication.
+* Ensuring access control per user so one user cannot view another user’s invoices, clients, or payments.
+* Managing password reset and email verification features securely.
+  
+
+### **2. Multi-Tenancy / Team-based Data Separation**
+
+* Implementing team-specific data access (i.e. each user or team sees only their own clients/invoices).
+* Making sure `team_id` is linked correctly in all tables (e.g. invoices, payments, clients).
+* Filtering database queries so that users don’t accidentally see or edit others’ data.
+  
+
+### **3. Complex Database Relationships**
+
+* Designing and maintaining relationships between Users, Clients, Invoices, Invoice Items, Payments, and Recurring Invoices.
+* Ensuring data integrity (e.g. a payment must belong to a valid invoice and client).
+* Handling cascading actions like deleting a client and ensuring related invoices/payments are handled correctly.
+  
+
+### 📜 **4. Invoice Logic and Automation**
+
+* Automatically calculating totals and taxes from invoice items.
+* Updating invoice status (e.g. from “Sent” to “Paid” or “Overdue”) based on payment status.
+* Handling partial payments and adjusting balances dynamically.
+  
+
+### 🔁 **5. Recurring Invoices Functionality**
+
+* Setting up a system to schedule and auto-generate invoices at regular intervals.
+* Ensuring proper linking between recurring templates and the actual generated invoices.
+* Handling different recurrence intervals (weekly, monthly, etc.).
+  
+
+### 🌎 **6. Currency and Branding Customization**
+
+* Allowing users to select different currencies and ensure amounts are formatted correctly.
+* Enabling logo uploads and dynamic invoice color customization.
+* Ensuring branding settings apply consistently across invoice PDFs and UI.
+  
+
+### 📊 **7. Dashboard & Data Visualization**
+
+* Displaying dynamic charts and KPIs (e.g. total revenue, invoice count).
+* Aggregating and filtering invoice/payment data efficiently.
+* Ensuring dashboard loads fast despite large datasets.
+  
+
+### 📱 **8. Responsive UI and Accessibility**
+
+* Designing interfaces that work well on both desktop and mobile.
+* Implementing a display mode for visual impairments.
+* Customizing Filament’s default look to match your branding needs.
+  
+
+### 🧪 **9. Testing and Debugging**
+
+* Testing complex form submissions with Livewire and Filament.
+* Debugging unexpected issues like validation failures, form not updating, or relationship errors.
+* Testing soft delete and restore functionality for customers and invoices.
+  
+
+### 📂 **10. PDF Generation and File Downloads**
+
+* Implementing download/export of invoice as PDF with proper layout.
+* Handling file formatting issues across browsers.
+* Ensuring downloaded files include correct branding and data.
+  
+
+### 🔍 **11. Search, Filter, and Pagination**
+
+* Implementing advanced search and filter features for clients, invoices, and payments.
+* Handling filtered queries efficiently without breaking pagination or table actions.
+* Making sure search works across all related fields (e.g. client name in invoice table).
 
