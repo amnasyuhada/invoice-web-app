@@ -204,7 +204,7 @@ The RecurringInvoice feature automates the generation of invoices on a regular s
 ![image](https://github.com/user-attachments/assets/9aa7377f-b2a2-494e-aad2-7d580351209f)
 ![image](https://github.com/user-attachments/assets/bf57b3b4-41a5-4cb8-aab1-e5723867609f)
 ![image](https://github.com/user-attachments/assets/5e07f6f5-0d96-414c-95f2-42552b4c73e0)
-![image](https://github.com/user-attachments/assets/facb4fc2-a1cc-4340-8c18-0d97fd1abfba)
+![image](https://github.com/user-attachments/assets/8f7ba64d-2ab5-45c1-abf5-b13d4f08fe30)
 ![image](https://github.com/user-attachments/assets/d6d25efd-94a5-4744-963d-725ad2dffb6a)
 ![image](https://github.com/user-attachments/assets/8c0095d8-bf4c-4a1e-b4f0-647c863e2d75)
 ![image](https://github.com/user-attachments/assets/c6e5f84c-1190-4b6b-9cc8-6714198cecb4)
