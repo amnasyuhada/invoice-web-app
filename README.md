@@ -184,56 +184,56 @@ The payment page allows users to record new customer payments by entering detail
 * Handling cascading actions like deleting a client and ensuring related invoices/payments are handled correctly.
   
 
-### 📜 **4. Invoice Logic and Automation**
+### **4. Invoice Logic and Automation**
 
 * Automatically calculating totals and taxes from invoice items.
 * Updating invoice status (e.g. from “Sent” to “Paid” or “Overdue”) based on payment status.
 * Handling partial payments and adjusting balances dynamically.
   
 
-### 🔁 **5. Recurring Invoices Functionality**
+### **5. Recurring Invoices Functionality**
 
 * Setting up a system to schedule and auto-generate invoices at regular intervals.
 * Ensuring proper linking between recurring templates and the actual generated invoices.
 * Handling different recurrence intervals (weekly, monthly, etc.).
   
 
-### 🌎 **6. Currency and Branding Customization**
+### **6. Currency and Branding Customization**
 
 * Allowing users to select different currencies and ensure amounts are formatted correctly.
 * Enabling logo uploads and dynamic invoice color customization.
 * Ensuring branding settings apply consistently across invoice PDFs and UI.
   
 
-### 📊 **7. Dashboard & Data Visualization**
+### **7. Dashboard & Data Visualization**
 
 * Displaying dynamic charts and KPIs (e.g. total revenue, invoice count).
 * Aggregating and filtering invoice/payment data efficiently.
 * Ensuring dashboard loads fast despite large datasets.
   
 
-### 📱 **8. Responsive UI and Accessibility**
+### **8. Responsive UI and Accessibility**
 
 * Designing interfaces that work well on both desktop and mobile.
 * Implementing a display mode for visual impairments.
 * Customizing Filament’s default look to match your branding needs.
   
 
-### 🧪 **9. Testing and Debugging**
+### **9. Testing and Debugging**
 
 * Testing complex form submissions with Livewire and Filament.
 * Debugging unexpected issues like validation failures, form not updating, or relationship errors.
 * Testing soft delete and restore functionality for customers and invoices.
   
 
-### 📂 **10. PDF Generation and File Downloads**
+### **10. PDF Generation and File Downloads**
 
 * Implementing download/export of invoice as PDF with proper layout.
 * Handling file formatting issues across browsers.
 * Ensuring downloaded files include correct branding and data.
   
 
-### 🔍 **11. Search, Filter, and Pagination**
+### **11. Search, Filter, and Pagination**
 
 * Implementing advanced search and filter features for clients, invoices, and payments.
 * Handling filtered queries efficiently without breaking pagination or table actions.
