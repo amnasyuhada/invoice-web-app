@@ -170,15 +170,32 @@ Customer page of the Invoice Sensei system, displaying a searchable and sortable
 
 ![5  Clients](https://raw.githubusercontent.com/amnasyuhada/invoice-web-app/main/Customer.png)
 
-## 6. Recurring Invoice :
-The RecurringInvoice feature automates the generation of invoices on a regular schedule (e.g., weekly, monthly). Instead of manually creating the same invoice repeatedly, users can set up a template that auto-generates invoices at set intervals.
+
+## 6.1 Invoice :
+The system provides comprehensive features for managing both items and invoices. In the **Invoice page**, users can create and edit invoices by selecting customers, adding items, and adjusting quantities. The page offers sorting options for invoice details, such as the status, date, invoice number, and timestamps for creation and updates. This allows users to easily track and manage invoice history. In the **Item management page**, users can create new items by adding product details like name, description, price, and weight. It also includes the option to upload product images and attach files. Users can review the item list and sort it by product name or other information, making it easy to navigate and find specific products. These features, combined with sorting and review options, help streamline the management of inventory and invoices.
+
+![image](https://github.com/user-attachments/assets/4731ffc4-cded-4b1b-ac02-6d938da4bdb4)
+![image](https://github.com/user-attachments/assets/feb05713-fa32-4569-8f63-58cb128a445b)
+![image](https://github.com/user-attachments/assets/c5838376-85f4-42f1-9850-e5862ad12d80)
+![image](https://github.com/user-attachments/assets/b67737f2-db87-4bd0-b772-472df7683bc9)
+![image](https://github.com/user-attachments/assets/60e47820-2528-4efc-9405-f0ed33e7b8a6)
+
+
+## 6.2 Recurring Invoice :
+The RecurringInvoice feature automates the generation of invoices on a regular schedule (e.g., weekly, monthly). Instead of manually creating the same invoice repeatedly, users can set up a template that auto-generates invoices at set intervals. More importantly highlights the status such as sent, refund, overdue, or pending. Customer also can check their total amount referring to their frequency and limit.
 
 ![Screenshot 2025-06-12 100526](https://github.com/user-attachments/assets/736ae518-2ba9-4654-b652-e18c525a8559)
+![image](https://github.com/user-attachments/assets/d80db125-a5b0-46ec-96de-c1ae8774333d)
+![image](https://github.com/user-attachments/assets/264a7811-10c9-4ba4-86b6-754bea08d0e4)
+
 
 ## 7. Payment:
-The payment page allows users to record new customer payments by entering details such as the date, payment number, amount, payment method, and notes. It ensures accurate tracking of transactions for each customer in the system.
+The payment page allows users to record new customer payments by entering details such as the date, payment number, amount, payment method, and notes. It ensures accurate tracking of transactions for each customer in the system. 
 
 ![image](https://github.com/user-attachments/assets/7ba81baa-6f74-40c5-938b-f3297ab47265)
+![image](https://github.com/user-attachments/assets/8a80a395-ac6a-4f17-824c-39a378c7a4a6)
+![image](https://github.com/user-attachments/assets/9dc185fa-d8ea-4ad1-85b9-e8f1f123f661)
+![image](https://github.com/user-attachments/assets/4f1a0225-7ce4-44e5-998d-a5851a98a75f)
 
 ---
 
