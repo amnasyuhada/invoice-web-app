@@ -133,6 +133,8 @@ Functions: View, filter, and manage payments with pagination and bulk actions.
 
 ## Captured Screens with Descriptions
 ## 1. Login : 
+Allows authorized users to securely access the admin panel by entering their credentials. It serves as the entry point for administrators to manage the system, ensuring only authenticated users can access backend features and sensitive data.
+![image](https://github.com/user-attachments/assets/d1bfbf6f-f710-4ca6-9cee-b959c7ea53d9)
 
 ## 2. Sign Up : 
 
